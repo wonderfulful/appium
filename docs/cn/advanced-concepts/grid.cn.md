@@ -40,6 +40,7 @@
     "hubHost": "<Grid_host_name_or_grid_ip-address>"
   }
 }
+
 ```
 
 可以在 <a href="http://selenium.googlecode.com/git/docs/api/java/org/openqa/selenium/Platform.html">这里</a>查看有效的 platform 参数。
